@@ -1,0 +1,7 @@
+start cmd.exe /k "cd C:\Program Files\MongoDB\Server\5.0\bin && mongod.exe --dbpath E:\data5\db"
+start cmd.exe /k "cd E:\Cesar\Escritorio\red-social\API-REST-RED-SOCIAL && npm start"
+start cmd.exe /k "cd E:\Cesar\Escritorio\red-social\front-red-social && npm run dev"
+start cmd.exe /k "cd E:\Cesar\Escritorio\red-social\API-REST-RED-SOCIAL && code ."
+start cmd.exe /k "cd E:\Cesar\Escritorio\red-social\front-red-social && code ."
+start "" "C:\Users\PC\AppData\Local\Postman\Postman.exe"
+start "" "C:\Users\PC\AppData\Local\MongoDBCompass\MongoDBCompass.exe"
